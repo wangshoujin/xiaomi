@@ -1,0 +1,1248 @@
+{
+    "code": 0,
+    "result": "ok",
+    "description": "success",
+    "data": {
+        "header": {},
+        "sections": [
+            {
+                "view_type": "gallery",
+                "body": {
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 360,
+                            "material_id": 1349,
+                            "ad_position_id": 988,
+                            "img_url": "//i8.mifile.cn/v1/a1/76231dd6-d631-2bb2-66a4-df046e5f1168.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/76231dd6-d631-2bb2-66a4-df046e5f1168.webp",
+                            "img_url_color": "#D9BFAA",
+                            "action": {
+                                "type": "product",
+                                "path": "10000031",
+                                "log_code": "311864waptabgallery001001#rid=4c661ef6ef61bfcf8da83be7cf6f75be&t=ad&page=tab&act=product&pid=10000031&bid=3001095.1&adp=988&adm=1349"
+                            }
+                        },
+                        {
+                            "w": 720,
+                            "h": 360,
+                            "material_id": 1901,
+                            "ad_position_id": 987,
+                            "img_url": "//i8.mifile.cn/v1/a1/36de2556-a945-22c6-abf5-0d4425c12c81.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/36de2556-a945-22c6-abf5-0d4425c12c81.webp",
+                            "img_url_color": "#D2D5DE",
+                            "action": {
+                                "type": "product",
+                                "path": "10000057",
+                                "log_code": "311864waptabgallery002001#rid=fb3bedd59b01c703bdf7828aac6ab79c&t=ad&page=tab&act=product&pid=10000057&bid=3001095.2&adp=987&adm=1901"
+                            }
+                        },
+                        {
+                            "w": 720,
+                            "h": 360,
+                            "material_id": 2013,
+                            "ad_position_id": 989,
+                            "img_url": "//i8.mifile.cn/v1/a1/e6185981-a300-b8da-7137-b6c41f799bfe.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/e6185981-a300-b8da-7137-b6c41f799bfe.webp",
+                            "img_url_color": "#DBCEB2",
+                            "action": {
+                                "type": "product",
+                                "path": "10000029",
+                                "log_code": "311864waptabgallery003001#rid=7bb4fff2ba948f6b466b267e60039ccc&t=ad&page=tab&act=product&pid=10000029&bid=3001095.3&adp=989&adm=2013"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/efa1c85833bf9db77c0c85318132aa23.png",
+                            "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/efa1c85833bf9db77c0c85318132aa23.png",
+                            "img_url_color": "#FFFFFF",
+                            "action": {
+                                "log_code": "311864waptabcells_auto_fill001003#rid=2af6a38ecc422e63d286616b119c1f0c&t=normal&page=tab&act=cat&bid=3001097.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/bcda8d01-77d3-2fde-b705-bfab9dcf3081.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/bcda8d01-77d3-2fde-b705-bfab9dcf3081.webp",
+                            "img_url_color": "#AEAFB4",
+                            "action": {
+                                "type": "product",
+                                "path": "10000021",
+                                "log_code": "311864waptablist_one_type12001007#rid=e44282e99bc7e6b40f3879441bf84d24&t=product&page=tab&act=cat&bid=3001591.1&pid=10000021"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000021",
+                            "product_name": "小米Note 2 双曲面商务旗舰",
+                            "product_brief": "5.7\" 双曲面柔性屏，2256万超高像素相机",
+                            "product_price": "2799.00",
+                            "product_tag": "//i8.mifile.cn/v1/a1/795858ea-e572-9167-9c26-2cb43ae0b942.webp",
+                            "product_tag_webp": "//i8.mifile.cn/v1/a1/795858ea-e572-9167-9c26-2cb43ae0b942.webp"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8731dc826e7c756a65fe1618bb23472c.jpg",
+                            "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8731dc826e7c756a65fe1618bb23472c.jpg",
+                            "img_url_color": "#FFFFFF",
+                            "action": {
+                                "type": "product",
+                                "path": "10000022",
+                                "log_code": "311864waptablist_two_type1001008#rid=9b74b26d500560fd133c9d78b7733954&t=product&page=tab&act=cat&bid=3001099.1&pid=10000022"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000022",
+                            "product_name": "小米MIX",
+                            "product_brief": "6.4\" 全面屏，全陶瓷机身",
+                            "product_price": "3499.00",
+                            "product_tag": "//i8.mifile.cn/v1/a1/81857936-fcfb-2796-3970-ff3a77ca0743.webp",
+                            "product_tag_webp": "//i8.mifile.cn/v1/a1/81857936-fcfb-2796-3970-ff3a77ca0743.webp"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/f444a1cc-1bde-a410-a53f-35b02d183963.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/f444a1cc-1bde-a410-a53f-35b02d183963.webp",
+                            "img_url_color": "#F9E1D3",
+                            "action": {
+                                "type": "product",
+                                "path": "10000030",
+                                "log_code": "311864waptablist_two_type1002008#rid=e1de100756fcdcde947ea33a85fec74e&t=product&page=tab&act=cat&bid=3001099.2&pid=10000030"
+                            },
+                            "product_id": "10000030",
+                            "product_name": "小米5c  64GB 移动版",
+                            "product_brief": "又轻又薄的拍照手机",
+                            "product_price": "1299.00",
+                            "product_tag": "//i8.mifile.cn/v1/a1/0ba9430c-5447-7bfb-2621-59391c5873bc.webp",
+                            "product_tag_webp": "//i8.mifile.cn/v1/a1/0ba9430c-5447-7bfb-2621-59391c5873bc.webp"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/14428e81-bc62-5d3f-3549-81c487685067.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/14428e81-bc62-5d3f-3549-81c487685067.webp",
+                            "img_url_color": "#C6ABB1",
+                            "action": {
+                                "type": "product",
+                                "path": "4481",
+                                "log_code": "311864waptablist_two_type1001009#rid=c1e773b1740b82333bee5a6b39d56010&t=product&page=tab&act=cat&bid=3001100.1&pid=4481"
+                            },
+                            "product_id": "4481",
+                            "product_name": "小米5s 64GB版",
+                            "product_brief": "“暗夜之眼”超感光相机",
+                            "product_price": "1999.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/a10deea6-d8d5-2ef0-a5f1-dc5377ce8d80.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/a10deea6-d8d5-2ef0-a5f1-dc5377ce8d80.webp",
+                            "img_url_color": "#A9A6AB",
+                            "action": {
+                                "type": "product",
+                                "path": "10000025",
+                                "log_code": "311864waptablist_two_type1002009#rid=6438af5f711f920ac09bf957016b1525&t=product&page=tab&act=cat&bid=3001100.2&pid=10000025"
+                            },
+                            "product_id": "10000025",
+                            "product_name": "小米5s Plus",
+                            "product_brief": "5.7\"大屏双摄手机",
+                            "product_price": "2299.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "is_show": "Y",
+                "body": {
+                    "w": 720,
+                    "h": 280,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 280,
+                            "material_id": 1820,
+                            "ad_position_id": 333,
+                            "img_url": "//i8.mifile.cn/v1/a1/ee6f605f-610e-91c5-1e43-442696fcc236.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/ee6f605f-610e-91c5-1e43-442696fcc236.webp",
+                            "img_url_color": "#4A98CD",
+                            "action": {
+                                "type": "channel",
+                                "path": "1892",
+                                "log_code": "311864waptabcells_auto_fill001011#rid=c7bfc0f787abf5822dd6d6e3e1540cb2&t=ad&page=tab&act=other&bid=3001147.1&adp=333&adm=1820"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//i8.mifile.cn/v1/a1/300dfb36-fe07-dadd-e819-41e9871004ff.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/300dfb36-fe07-dadd-e819-41e9871004ff.webp",
+                            "img_url_color": "#F9F9F9",
+                            "action": {
+                                "log_code": "311864waptabcells_auto_fill001013#rid=2594e7bbcc8ebc9bf80a1b61787efa82&t=normal&page=tab&act=cat&bid=3001103.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/3e907b3c-0b7a-8573-e19f-a237721bb62b.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/3e907b3c-0b7a-8573-e19f-a237721bb62b.webp",
+                            "img_url_color": "#242529",
+                            "action": {
+                                "type": "product",
+                                "path": "10000041",
+                                "log_code": "311864waptablist_one_type12001014#rid=ddf6e41080c833cf6be6377a52c23aee&t=product&page=tab&act=cat&bid=3001104.1&pid=10000041"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000041",
+                            "product_name": "小米6",
+                            "product_brief": "变焦双摄，拍人更美",
+                            "product_price": "2499.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/b3867dfa-9169-c7b1-6d3b-b7cacee712ff.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/b3867dfa-9169-c7b1-6d3b-b7cacee712ff.webp",
+                            "img_url_color": "#A29585",
+                            "action": {
+                                "type": "product",
+                                "path": "10000057",
+                                "log_code": "311864waptablist_one_type12001015#rid=e3e7e6bd28b43ac318895c1693febbcf&t=product&page=tab&act=cat&bid=3002963.1&pid=10000057"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000057",
+                            "product_name": "小米Max 2",
+                            "product_brief": "6.44\" 大屏，5300mAh充电宝级的大电量",
+                            "product_price": "1699.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//i8.mifile.cn/v1/a1/111efafd-d582-d2c7-e0bf-379939bc8161.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/111efafd-d582-d2c7-e0bf-379939bc8161.webp",
+                            "img_url_color": "#FAFAFA",
+                            "action": {
+                                "type": "none",
+                                "log_code": "311864waptabcells_auto_fill001017#rid=7cd86e2dd71ebc1a04b1496dfb1ed145&t=normal&page=tab&act=other&bid=3001108.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/98cfb57a-b9ee-b04c-f1b8-4e5de656646c.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/98cfb57a-b9ee-b04c-f1b8-4e5de656646c.webp",
+                            "action": {
+                                "type": "product",
+                                "path": "10000024",
+                                "log_code": "311864waptablist_one_type12001018#rid=3d063348c490e1c7cf806f737f9b2729&t=product&page=tab&act=cat&bid=3001109.1&pid=10000024"
+                            },
+                            "product_id": "10000024",
+                            "product_name": "小米5s",
+                            "product_brief": "拍照黑科技，“暗夜之眼”超感光相机",
+                            "product_price": "1999.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/c532a1dd-cd92-8c88-d510-a38c75e16b14.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/c532a1dd-cd92-8c88-d510-a38c75e16b14.webp",
+                            "img_url_color": "#BBC8C1",
+                            "action": {
+                                "type": "product",
+                                "path": "10000057",
+                                "log_code": "311864waptablist_two_type1001019#rid=f5d865f55004020e7c30bfa320dce1fa&t=product&page=tab&act=cat&bid=3001110.1&pid=10000057"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000057",
+                            "product_name": "小米Max 2",
+                            "product_brief": "6.44\"大屏，5300mAh大电量",
+                            "product_price": "1699.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/7b75e0c8-1a65-c389-9c18-22ca7e2eefbc.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/7b75e0c8-1a65-c389-9c18-22ca7e2eefbc.webp",
+                            "img_url_color": "#B7B5C0",
+                            "action": {
+                                "type": "product",
+                                "path": "10000021",
+                                "log_code": "311864waptablist_two_type1002019#rid=6da0e12661c75663b26c11aca41bc2f8&t=product&page=tab&act=cat&bid=3001110.2&pid=10000021"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000021",
+                            "product_name": "小米Note 2",
+                            "product_brief": "5.7\" 双曲面 / 2256万相机",
+                            "product_price": "2799.00",
+                            "product_tag": "//i8.mifile.cn/v1/a1/795858ea-e572-9167-9c26-2cb43ae0b942.webp",
+                            "product_tag_webp": "//i8.mifile.cn/v1/a1/795858ea-e572-9167-9c26-2cb43ae0b942.webp"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8731dc826e7c756a65fe1618bb23472c.jpg",
+                            "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8731dc826e7c756a65fe1618bb23472c.jpg",
+                            "img_url_color": "#FFFFFF",
+                            "action": {
+                                "type": "product",
+                                "path": "10000022",
+                                "log_code": "311864waptablist_two_type1001020#rid=f999af409885f8dd0bd69b42b676465e&t=product&page=tab&act=cat&bid=3001111.1&pid=10000022"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000022",
+                            "product_name": "小米MIX",
+                            "product_brief": "6.4\" 全面屏，全陶瓷机身",
+                            "product_price": "3499.00",
+                            "product_tag": "//i8.mifile.cn/v1/a1/81857936-fcfb-2796-3970-ff3a77ca0743.webp",
+                            "product_tag_webp": "//i8.mifile.cn/v1/a1/81857936-fcfb-2796-3970-ff3a77ca0743.webp"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/a10deea6-d8d5-2ef0-a5f1-dc5377ce8d80.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/a10deea6-d8d5-2ef0-a5f1-dc5377ce8d80.webp",
+                            "img_url_color": "#A9A6AB",
+                            "action": {
+                                "type": "product",
+                                "path": "10000025",
+                                "log_code": "311864waptablist_two_type1002020#rid=7579f56b4286a23877e3a3ec291cd9c0&t=product&page=tab&act=cat&bid=3001111.2&pid=10000025"
+                            },
+                            "product_id": "10000025",
+                            "product_name": "小米5s Plus",
+                            "product_brief": "5.7\"大屏双摄手机",
+                            "product_price": "2299.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/f444a1cc-1bde-a410-a53f-35b02d183963.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/f444a1cc-1bde-a410-a53f-35b02d183963.webp",
+                            "img_url_color": "#F9E1D3",
+                            "action": {
+                                "type": "product",
+                                "path": "10000030",
+                                "log_code": "311864waptablist_two_type1001021#rid=2fd1876b8488da84009b81e4cce1785c&t=product&page=tab&act=cat&bid=3001112.1&pid=10000030"
+                            },
+                            "product_id": "10000030",
+                            "product_name": "小米5c  64GB 移动版",
+                            "product_brief": "又轻又薄的拍照手机",
+                            "product_price": "1299.00",
+                            "product_tag": "//i8.mifile.cn/v1/a1/0ba9430c-5447-7bfb-2621-59391c5873bc.webp",
+                            "product_tag_webp": "//i8.mifile.cn/v1/a1/0ba9430c-5447-7bfb-2621-59391c5873bc.webp"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/b9833bde-d7e9-ac73-14b2-0b9a27aa75bc.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/b9833bde-d7e9-ac73-14b2-0b9a27aa75bc.webp",
+                            "img_url_color": "#888A8C",
+                            "action": {
+                                "type": "product",
+                                "path": "10000041",
+                                "log_code": "311864waptablist_two_type1002021#rid=6844cab46a3307310caab14c2046b059&t=product&page=tab&act=cat&bid=3001112.2&pid=10000041"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000041",
+                            "product_name": "小米6",
+                            "product_brief": "变焦双摄，拍人更美",
+                            "product_price": "2499.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c3a512655e100a417d1d0cb4d72190dc.png",
+                            "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c3a512655e100a417d1d0cb4d72190dc.png",
+                            "img_url_color": "#FFFFFF",
+                            "action": {
+                                "log_code": "311864waptabcells_auto_fill001023#rid=1ebeacf19545d62f469aa7466aa6378b&t=normal&page=tab&act=cat&bid=3001114.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/4e279ce7-e243-570b-887b-f54c88b4b100.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/4e279ce7-e243-570b-887b-f54c88b4b100.webp",
+                            "img_url_color": "#AB917A",
+                            "action": {
+                                "type": "product",
+                                "path": "10000029",
+                                "log_code": "311864waptablist_one_type12001024#rid=9d58d5ecc959d4f3c3bfee2c68a7ed85&t=product&page=tab&act=cat&bid=3001115.1&pid=10000029"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000029",
+                            "product_name": "红米Note 4X 全网通版",
+                            "product_brief": "多彩金属/4100mAh超长续航/骁龙625处理器",
+                            "product_price": "999.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/7c852a54-ec5e-42dc-df47-50ea3d37d84c.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/7c852a54-ec5e-42dc-df47-50ea3d37d84c.webp",
+                            "img_url_color": "#A17F62",
+                            "action": {
+                                "type": "product",
+                                "path": "10000031",
+                                "log_code": "311864waptablist_one_type12001025#rid=a86d70d78d22486d6c0eaca609e3c2b7&t=product&page=tab&act=cat&bid=3001116.1&pid=10000031"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000031",
+                            "product_name": "红米4X ",
+                            "product_brief": "超长续航，5” 舒适单手握感，骁龙 8 核处理器",
+                            "product_price": "699.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/57947e42-29e4-21c0-182d-e33687a3906f.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/57947e42-29e4-21c0-182d-e33687a3906f.webp",
+                            "img_url_color": "#EFE9D7",
+                            "action": {
+                                "type": "product",
+                                "path": "5496",
+                                "log_code": "311864waptablist_one_type12001026#rid=ea9c0c88f6787e08c3705f5540891da8&t=product&page=tab&act=cat&bid=3002820.1&pid=5496"
+                            },
+                            "product_id": "5496",
+                            "product_name": "红米Note 4X 移动4G+版",
+                            "product_brief": "多彩金属，4100mAh超长续航，十核处理器",
+                            "product_price": "1299.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//i8.mifile.cn/v1/a1/cb18e177-e29f-b156-da26-8397521d32c5.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/cb18e177-e29f-b156-da26-8397521d32c5.webp",
+                            "img_url_color": "#FBFBFB",
+                            "action": {
+                                "type": "none",
+                                "log_code": "311864waptabcells_auto_fill001028#rid=d2512ab5ad3a2a14823ef33650b4edcf&t=normal&page=tab&act=other&bid=3002821.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/1a904c5c-8949-9928-3ea0-6e002e5fa453.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/1a904c5c-8949-9928-3ea0-6e002e5fa453.webp",
+                            "img_url_color": "#B2B0B8",
+                            "action": {
+                                "type": "product",
+                                "path": "5670",
+                                "log_code": "311864waptablist_one_type12001029#rid=a0dc3766c98f09a5ee54029bc79458b7&t=product&page=tab&act=cat&bid=3001119.1&pid=5670"
+                            },
+                            "product_id": "5670",
+                            "product_name": "  小米6硅胶保护套",
+                            "product_brief": "超细纤维柔软内衬，呵护你的手机",
+                            "product_price": "49.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/e7d9b144-687b-a2d0-69ef-6ed9801077ea.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/e7d9b144-687b-a2d0-69ef-6ed9801077ea.webp",
+                            "img_url_color": "#6B6764",
+                            "action": {
+                                "type": "product",
+                                "path": "5223",
+                                "log_code": "311864waptablist_two_type1001030#rid=a50a2a33262ccfa12fc4dfb4205f0feb&t=product&page=tab&act=cat&bid=3002822.1&pid=5223"
+                            },
+                            "product_id": "5223",
+                            "product_name": "天鹅绒质感保护壳",
+                            "product_brief": "再次为品质而来",
+                            "product_price": "29.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/70d28359-3b2a-fe83-8ed9-d8f36f5c0974.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/70d28359-3b2a-fe83-8ed9-d8f36f5c0974.webp",
+                            "img_url_color": "#BCB5AE",
+                            "action": {
+                                "type": "product",
+                                "path": "5669",
+                                "log_code": "311864waptablist_two_type1002030#rid=75dc06a6da9671b2989b9b7998e41f31&t=product&page=tab&act=cat&bid=3002822.2&pid=5669"
+                            },
+                            "product_id": "5669",
+                            "product_name": "米6高透软胶保护套    ",
+                            "product_brief": "裸机手感 就是轻薄",
+                            "product_price": "19.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/6fa5fe65-f149-9cf7-9dcf-6ee4d6a2b696.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/6fa5fe65-f149-9cf7-9dcf-6ee4d6a2b696.webp",
+                            "img_url_color": "#C2514F",
+                            "action": {
+                                "type": "product",
+                                "path": "5363",
+                                "log_code": "311864waptablist_two_type1001031#rid=dae9448e4af694f9ab33fe258bfc1773&t=product&page=tab&act=cat&bid=3002829.1&pid=5363"
+                            },
+                            "product_id": "5363",
+                            "product_name": "小米5C 硅胶保护套",
+                            "product_brief": "轻薄，触手可及",
+                            "product_price": "29.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/e233747b-baff-e0e3-8ede-b58c146c5c3c.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/e233747b-baff-e0e3-8ede-b58c146c5c3c.webp",
+                            "action": {
+                                "type": "product",
+                                "path": "5218",
+                                "log_code": "311864waptablist_two_type1002031#rid=cd362126aefd4e406116b8c68c736ec4&t=product&page=tab&act=cat&bid=3002829.2&pid=5218"
+                            },
+                            "product_id": "5218",
+                            "product_name": " Note2 乐融保护壳",
+                            "product_brief": "双层喷漆  肌肤手感",
+                            "product_price": "49.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//i8.mifile.cn/v1/a1/2621311e-82e1-11e6-612a-0d5a271d9b22.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/2621311e-82e1-11e6-612a-0d5a271d9b22.webp",
+                            "img_url_color": "#FCFCFC",
+                            "action": {
+                                "type": "none",
+                                "log_code": "311864waptabcells_auto_fill001032#rid=d5f84ba5e86bd8daa8acc0c0f3792fbc&t=normal&page=tab&act=other&bid=3002823.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/1795018f-520e-b778-7aa4-f3b497634d7f.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/1795018f-520e-b778-7aa4-f3b497634d7f.webp",
+                            "action": {
+                                "type": "product",
+                                "path": "4582",
+                                "log_code": "311864waptablist_one_type12001033#rid=d6b359f10979fbec2c021812e0b01bf3&t=product&page=tab&act=cat&bid=3002824.1&pid=4582"
+                            },
+                            "product_id": "4582",
+                            "product_name": "小米运动蓝牙耳机",
+                            "product_brief": "生活级防水防汗，超长播放，防脱落式耳挂设计",
+                            "product_price": "149.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/a9c2c141-b8e6-d50e-828a-b367b5c67475.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/a9c2c141-b8e6-d50e-828a-b367b5c67475.webp",
+                            "action": {
+                                "type": "product",
+                                "path": "4792",
+                                "log_code": "311864waptablist_one_type12001034#rid=1e9545de3b58603f4d5e16659b5302e9&t=product&page=tab&act=cat&bid=3002825.1&pid=4792"
+                            },
+                            "product_id": "4792",
+                            "product_name": "小米圈铁耳机Pro",
+                            "product_brief": "独创双动圈 + 动铁 三单元发声",
+                            "product_price": "149.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/21da5518-d5c3-5de7-84b8-afca9446ef93.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/21da5518-d5c3-5de7-84b8-afca9446ef93.webp",
+                            "img_url_color": "#D5BADE",
+                            "action": {
+                                "type": "product",
+                                "path": "5059",
+                                "log_code": "311864waptablist_two_type1001035#rid=5ee23d2df7430bc53afdd5fa0cca713b&t=product&page=tab&act=cat&bid=3002826.1&pid=5059"
+                            },
+                            "product_id": "5059",
+                            "product_name": "小米活塞耳机  ",
+                            "product_brief": "新鲜绽放，五色可选",
+                            "product_price": "29.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/5242fc1b-6ee1-9657-cd95-130c54851dbb.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/5242fc1b-6ee1-9657-cd95-130c54851dbb.webp",
+                            "img_url_color": "#CFB7A5",
+                            "action": {
+                                "type": "product",
+                                "path": "3458",
+                                "log_code": "311864waptablist_two_type1002035#rid=d043ad609f31c584b0431a4eec57bf87&t=product&page=tab&act=cat&bid=3002826.2&pid=3458"
+                            },
+                            "product_id": "3458",
+                            "product_name": "小米圈铁耳机",
+                            "product_brief": "动圈+动铁 双发声单元",
+                            "product_price": "99.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//i8.mifile.cn/v1/a1/fa525a7f-188b-ce05-5e45-eb1dd0110aef.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/fa525a7f-188b-ce05-5e45-eb1dd0110aef.webp",
+                            "img_url_color": "#FCFCFC",
+                            "action": {
+                                "type": "none",
+                                "log_code": "311864waptabcells_auto_fill001036#rid=89bf9a1e8d9383fb777bc7e5d2b258d7&t=normal&page=tab&act=other&bid=3002827.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_one_type12",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/6a876b74-f92a-ca65-78d4-6c48a9e73522.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/6a876b74-f92a-ca65-78d4-6c48a9e73522.webp",
+                            "action": {
+                                "type": "product",
+                                "path": "4580",
+                                "log_code": "311864waptablist_one_type12001037#rid=dcac6d4582dacb6672b1e98b72f29288&t=product&page=tab&act=cat&bid=3002828.1&pid=4580"
+                            },
+                            "product_id": "4580",
+                            "product_name": "小米移动电源2 10000mAh",
+                            "product_brief": "双向快充，仅 14.1mm 薄，高密度锂聚合物电芯",
+                            "product_price": "79.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/cd606494-7ad5-c900-a722-bb69661fed21.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/cd606494-7ad5-c900-a722-bb69661fed21.webp",
+                            "img_url_color": "#C1D9E6",
+                            "action": {
+                                "type": "product",
+                                "path": "4888",
+                                "log_code": "311864waptablist_two_type1001038#rid=6de4f5823f7c2e8cb5da190be7686fdc&t=product&page=tab&act=cat&bid=3001120.1&pid=4888"
+                            },
+                            "product_id": "4888",
+                            "product_name": "米家插线板6位 ",
+                            "product_brief": "小巧设计，便捷不占地儿",
+                            "product_price": "79.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/55f43fdd-13a0-c8d8-231d-1ce2005c7327.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/55f43fdd-13a0-c8d8-231d-1ce2005c7327.webp",
+                            "img_url_color": "#B2B7B7",
+                            "action": {
+                                "type": "product",
+                                "path": "4998",
+                                "log_code": "311864waptablist_two_type1002038#rid=c889103c7001fc53e448c130974a5de2&t=product&page=tab&act=cat&bid=3001120.2&pid=4998"
+                            },
+                            "product_id": "4998",
+                            "product_name": "小米移动电源高配版",
+                            "product_brief": " 轻薄设计，轻松出行",
+                            "product_price": "149.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/782ecab9-7930-76ab-692c-1a227e60b3d2.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/782ecab9-7930-76ab-692c-1a227e60b3d2.webp",
+                            "img_url_color": "#CDC7BE",
+                            "action": {
+                                "type": "product",
+                                "path": "1732",
+                                "log_code": "311864waptablist_two_type1001039#rid=c17ab195ed2edb828f6ed2427cb2efca&t=product&page=tab&act=cat&bid=3001121.1&pid=1732"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "1732",
+                            "product_name": "小米移动电源5000mAh",
+                            "product_brief": "可以放入衬衫兜的移动电源",
+                            "product_price": "49.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/38f1fa24-815b-c6a6-925f-65460ce541e4.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/38f1fa24-815b-c6a6-925f-65460ce541e4.webp",
+                            "action": {
+                                "type": "product",
+                                "path": "5126",
+                                "log_code": "311864waptablist_two_type1002039#rid=fdd87520079d0bdcdb78a6379d6b9836&t=product&page=tab&act=cat&bid=3001121.2&pid=5126"
+                            },
+                            "product_id": "5126",
+                            "product_name": "小米 USB 充电器 ",
+                            "product_brief": "精致小巧，便携出行",
+                            "product_price": "49.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/2b6f208f-f412-d469-cfea-34a3e27ad7b4.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/2b6f208f-f412-d469-cfea-34a3e27ad7b4.webp",
+                            "img_url_color": "#D6E7EE",
+                            "action": {
+                                "type": "product",
+                                "path": "5148",
+                                "log_code": "311864waptablist_two_type1001040#rid=03d28a74eab54175b1cdaff03428e1e2&t=product&page=tab&act=cat&bid=3001122.1&pid=5148"
+                            },
+                            "product_id": "5148",
+                            "product_name": "小米插线板",
+                            "product_brief": "3个USB充电口，支持快充",
+                            "product_price": "49.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/7f47b940-7797-37d9-0a82-9fc08568e277.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/7f47b940-7797-37d9-0a82-9fc08568e277.webp",
+                            "action": {
+                                "type": "product",
+                                "path": "2843",
+                                "log_code": "311864waptablist_two_type1002040#rid=f495a5005c715bbb54f713798d5b21e3&t=product&page=tab&act=cat&bid=3001122.2&pid=2843"
+                            },
+                            "product_id": "2843",
+                            "product_name": "小米车载充电器",
+                            "product_brief": "全金属外观 双USB输出",
+                            "product_price": "49.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//i8.mifile.cn/v1/a1/db28ec72-5483-2668-3851-40ff445500d7.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/db28ec72-5483-2668-3851-40ff445500d7.webp",
+                            "img_url_color": "#F9F9F9",
+                            "action": {
+                                "log_code": "311864waptabcells_auto_fill001042#rid=08a107201d642ad78da2c03226b8a299&t=normal&page=tab&act=cat&bid=3001132.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "is_show": "Y",
+                "body": {
+                    "w": 720,
+                    "h": 513,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 256,
+                            "material_id": 2010,
+                            "ad_position_id": 965,
+                            "img_url": "//i8.mifile.cn/v1/a1/a9f52a58-ebe3-d250-a366-02f565ad5e2c.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/a9f52a58-ebe3-d250-a366-02f565ad5e2c.webp",
+                            "img_url_color": "#B5DFDE",
+                            "action": {
+                                "type": "url",
+                                "path": "https://service.10046.mi.com/main_home?from=10001&needValidHost=false&defaultTextSize=true",
+                                "log_code": "311864waptabcells_auto_fill001043#rid=0f62e81fd3f0cc34b5bc213613dd9267&t=ad&page=tab&act=webview&bid=3001133.1&adp=965&adm=2010"
+                            },
+                            "path_type": "image"
+                        },
+                        {
+                            "y": 256,
+                            "w": 360,
+                            "h": 257,
+                            "material_id": 2008,
+                            "ad_position_id": 966,
+                            "img_url": "//i8.mifile.cn/v1/a1/2530c23d-d6ea-2d03-3186-315ceda32b06.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/2530c23d-d6ea-2d03-3186-315ceda32b06.webp",
+                            "img_url_color": "#F5C9A2",
+                            "action": {
+                                "type": "product",
+                                "path": "6009",
+                                "log_code": "311864waptabcells_auto_fill002043#rid=fafebb64b20c0af69b0298f9d2d40f2e&t=ad&page=tab&act=product&pid=6009&bid=3001133.2&adp=966&adm=2008"
+                            },
+                            "path_type": "image"
+                        },
+                        {
+                            "x": 360,
+                            "y": 256,
+                            "w": 360,
+                            "h": 257,
+                            "material_id": 2009,
+                            "ad_position_id": 967,
+                            "img_url": "//i8.mifile.cn/v1/a1/00edcb08-bf0a-dbb3-fb6e-a37b4b3f7dd6.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/00edcb08-bf0a-dbb3-fb6e-a37b4b3f7dd6.webp",
+                            "img_url_color": "#B1D8EA",
+                            "action": {
+                                "type": "url",
+                                "path": "https://m.10010.com/queen/xiaomi/mifancards.html?channel=1",
+                                "log_code": "311864waptabcells_auto_fill003043#rid=aae1c56ea3dc1c2d92e568e2c6c4feaa&t=ad&page=tab&act=webview&bid=3001133.3&adp=967&adm=2009"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "is_show": "Y",
+                "body": {
+                    "w": 720,
+                    "h": 280,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 280,
+                            "material_id": 1394,
+                            "ad_position_id": 244,
+                            "img_url": "//i8.mifile.cn/v1/a1/5d28ad9d-ee74-54f1-0f74-c3dbcf2939a3.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/5d28ad9d-ee74-54f1-0f74-c3dbcf2939a3.webp",
+                            "img_url_color": "#EBE2DB",
+                            "action": {
+                                "type": "url",
+                                "path": "https://s1.mi.com/m/ghd/2015/1124recycling/?channel=m",
+                                "log_code": "311864waptabcells_auto_fill001045#rid=ac4393f99d46a01567963007e495db1f&t=ad&page=tab&act=webview&bid=3001135.1&adp=244&adm=1394"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "body": {
+                    "w": 720,
+                    "h": 80,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 80,
+                            "img_url": "//i8.mifile.cn/v1/a1/99c9f665-0049-5ced-541c-91bfc76c6fbd.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/99c9f665-0049-5ced-541c-91bfc76c6fbd.webp",
+                            "img_url_color": "#F3F3F3",
+                            "action": {
+                                "log_code": "311864waptabcells_auto_fill001047#rid=ad44e6a7041cf2963fe87008d0068bc8&t=normal&page=tab&act=cat&bid=3001137.1"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/7b75e0c8-1a65-c389-9c18-22ca7e2eefbc.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/7b75e0c8-1a65-c389-9c18-22ca7e2eefbc.webp",
+                            "img_url_color": "#B7B5C0",
+                            "action": {
+                                "type": "product",
+                                "path": "10000021",
+                                "log_code": "311864waptablist_two_type1001048#rid=c085dc7287cfe9fe359c050ccae30abb&t=product&page=tab&act=cat&bid=3001138.1&pid=10000021"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000021",
+                            "product_name": "小米Note 2",
+                            "product_brief": "5.7\" 双曲面 / 2256万相机",
+                            "product_price": "2799.00",
+                            "product_tag": "//i8.mifile.cn/v1/a1/795858ea-e572-9167-9c26-2cb43ae0b942.webp",
+                            "product_tag_webp": "//i8.mifile.cn/v1/a1/795858ea-e572-9167-9c26-2cb43ae0b942.webp"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/a10deea6-d8d5-2ef0-a5f1-dc5377ce8d80.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/a10deea6-d8d5-2ef0-a5f1-dc5377ce8d80.webp",
+                            "img_url_color": "#A9A6AB",
+                            "action": {
+                                "type": "product",
+                                "path": "10000025",
+                                "log_code": "311864waptablist_two_type1002048#rid=0b58579afe87ddee21a1370ba4ea3fb9&t=product&page=tab&act=cat&bid=3001138.2&pid=10000025"
+                            },
+                            "product_id": "10000025",
+                            "product_name": "小米5s Plus",
+                            "product_brief": "5.7\"大屏双摄手机",
+                            "product_price": "2299.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "list_two_type1",
+                "body": {
+                    "items": [
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/499002db-8847-cd0e-1c1d-088dd9fb7239.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/499002db-8847-cd0e-1c1d-088dd9fb7239.webp",
+                            "img_url_color": "#DBC1A9",
+                            "action": {
+                                "type": "product",
+                                "path": "10000031",
+                                "log_code": "311864waptablist_two_type1001049#rid=516515b0117e0157d3e01d52848d8963&t=product&page=tab&act=cat&bid=3001139.1&pid=10000031"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000031",
+                            "product_name": "红米4X ",
+                            "product_brief": "超长续航，5” 舒适单手握感",
+                            "product_price": "699.00"
+                        },
+                        {
+                            "img_url": "//i8.mifile.cn/v1/a1/fc1dfa67-207d-1c71-91cb-c699b60c703a.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/fc1dfa67-207d-1c71-91cb-c699b60c703a.webp",
+                            "img_url_color": "#F0D4CF",
+                            "action": {
+                                "type": "product",
+                                "path": "10000029",
+                                "log_code": "311864waptablist_two_type1002049#rid=cf0137d3e0d58e81acad2ddbb63838b0&t=product&page=tab&act=cat&bid=3001139.2&pid=10000029"
+                            },
+                            "show_price_qi": true,
+                            "product_id": "10000029",
+                            "product_name": "红米Note 4X 全网通版",
+                            "product_brief": "多彩金属/超长续航",
+                            "product_price": "999.00"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "is_show": "Y",
+                "body": {
+                    "w": 720,
+                    "h": 280,
+                    "items": [
+                        {
+                            "w": 720,
+                            "h": 280,
+                            "material_id": 1394,
+                            "ad_position_id": 244,
+                            "img_url": "//i8.mifile.cn/v1/a1/5d28ad9d-ee74-54f1-0f74-c3dbcf2939a3.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/5d28ad9d-ee74-54f1-0f74-c3dbcf2939a3.webp",
+                            "img_url_color": "#EBE2DB",
+                            "action": {
+                                "type": "url",
+                                "path": "https://s1.mi.com/m/ghd/2015/1124recycling/?channel=m",
+                                "log_code": "311864waptabcells_auto_fill001051#rid=72479fe4f20acdf1b637944a0204d38b&t=ad&page=tab&act=webview&bid=3001141.1&adp=244&adm=1394"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "24"
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "is_show": "Y",
+                "body": {
+                    "w": 720,
+                    "h": 480,
+                    "items": [
+                        {
+                            "w": 358,
+                            "h": 480,
+                            "material_id": 44,
+                            "ad_position_id": 1008,
+                            "img_url": "//i8.mifile.cn/v1/a1/8cfcd654-4af5-9ae6-c6cc-1ba9d28be8e8.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/8cfcd654-4af5-9ae6-c6cc-1ba9d28be8e8.webp",
+                            "img_url_color": "#9BB5C4",
+                            "action": {
+                                "type": "channel",
+                                "path": "34",
+                                "log_code": "311864waptabcells_auto_fill001053#rid=cca7d22c57faa6a5ef2b8a7b1a9e4fba&t=ad&page=tab&act=other&bid=3001143.1&adp=1008&adm=44"
+                            },
+                            "path_type": "image"
+                        },
+                        {
+                            "x": 362,
+                            "w": 358,
+                            "h": 480,
+                            "material_id": 42,
+                            "ad_position_id": 1009,
+                            "img_url": "//i8.mifile.cn/v1/a1/d55778b9-7144-2d36-1450-694b8a47b9db.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/d55778b9-7144-2d36-1450-694b8a47b9db.webp",
+                            "img_url_color": "#ACB5C8",
+                            "action": {
+                                "type": "channel",
+                                "path": "33",
+                                "log_code": "311864waptabcells_auto_fill002053#rid=7c6f1f0877cf525a6b68ecf77d8cc1e9&t=ad&page=tab&act=other&bid=3001143.2&adp=1009&adm=42"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "cells_auto_fill",
+                "is_show": "Y",
+                "body": {
+                    "w": 720,
+                    "h": 480,
+                    "items": [
+                        {
+                            "w": 358,
+                            "h": 480,
+                            "material_id": 41,
+                            "ad_position_id": 1010,
+                            "img_url": "//i8.mifile.cn/v1/a1/46c44f3e-479d-a999-dd2d-98fb39b51e17.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/46c44f3e-479d-a999-dd2d-98fb39b51e17.webp",
+                            "img_url_color": "#C0A491",
+                            "action": {
+                                "type": "channel",
+                                "path": "32",
+                                "log_code": "311864waptabcells_auto_fill001054#rid=fb0a45afa2e4f5404d21cf9cc24b31a5&t=ad&page=tab&act=other&bid=3001144.1&adp=1010&adm=41"
+                            },
+                            "path_type": "image"
+                        },
+                        {
+                            "x": 362,
+                            "w": 358,
+                            "h": 480,
+                            "material_id": 132,
+                            "ad_position_id": 1011,
+                            "img_url": "//i8.mifile.cn/v1/a1/f938ae9f-e54a-1fa1-a52d-62dfe534b579.webp",
+                            "img_url_webp": "//i8.mifile.cn/v1/a1/f938ae9f-e54a-1fa1-a52d-62dfe534b579.webp",
+                            "action": {
+                                "type": "channel",
+                                "path": "30",
+                                "log_code": "311864waptabcells_auto_fill002054#rid=6e78343d63e253f225f3f97d807cd710&t=ad&page=tab&act=other&bid=3001144.2&adp=1011&adm=132"
+                            },
+                            "path_type": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "view_type": "divider_line",
+                "body": {
+                    "line_color": "#f5f5f5",
+                    "line_height": "6"
+                }
+            }
+        ]
+    }
+}

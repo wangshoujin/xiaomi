@@ -1,0 +1,59 @@
+
+001.
+vue-cli 大型vue项目的一个脚手架，通过它可以创建一个项目的目录结构以及项目规范
+npm install -g vue-cli (安装)
+vue init  webpack project_name
+
+
+002.
+文件名字是以 .vue 结尾的，此文件包含三部分(template,script,style)
+通过vue-loader编译成我们的vue组件
+index.html 入口页面
+src 是我们的项目代码目录 
+assets 是静态资源文件（图片等资源）
+components 是我们的做一个组件目录
+router 是我们的路由（单页应用SPA）
+App.vue 是我们项目容器
+main.js 是入口js文件
+build config 这个目录是项目的webpack编译文件目录
+
+003.
+生命周期的概念 (html5页面渲染 从上到下)
+created（创建），mounted（挂载、渲染），destoryed（销毁） ,每一个对应的都有一个before
+
+
+
+004.
+单页路由 vue-router
+<router-view></router-view> 就是我们的容器
+<router-link to="/foo">Go to Foo</router-link>  链接
+怎么配置配置路由
+路由传参怎么做
+
+005.
+插件的使用
+import xxx from 'xxx'
+Vue.use(xxx)
+
+006.
+组件如何拆分和使用
+
+007.
+http请求数据  axios 来进行http请求的
+在2.0 之前我们都是用vue-resouce 来进行数据请求的
+2.0以后vue的左右推荐使用axios来进行http
+
+created:页面创建函数放错位置，总是放在methods方法里，所以出现问题
+页面大小适配问题，把适配函数放入index.html script标签中
+reset.css引入问题，不能直接引,在App.vue页面的script中写入import './assets/reset.css'
+把图片都放到src/assets文件夹中
+写好每个部分的注释
+
+注释：组合键“Ctrl+K+C”；
+
+14.生成解决方案
+
+使用组合键“Ctrl+Shift+B”。
+
+注释：组合键“Ctrl+K+C”；
+调试（启动）：F5；
